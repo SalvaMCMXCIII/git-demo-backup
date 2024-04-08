@@ -8,5 +8,6 @@ Shield by shield
 
 Some content
 And here!
-Money money
-------------------------
+New lines were added
+Second part
+---------------------
