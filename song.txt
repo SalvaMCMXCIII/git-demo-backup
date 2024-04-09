@@ -12,4 +12,5 @@ New lines were added
 Second part
 
 New feature
----------------------
+
+Something new one
